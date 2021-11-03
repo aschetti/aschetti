@@ -1,6 +1,6 @@
-# Hi, I'm Antonio
-
 <img src="./media/Montoya.gif" width="300" />
+
+# Hi, I'm Antonio
 
 - 💬 Happy to chat about open research
 - 👯 Ready to collaborate on projects related to open science, emotion, attention, and visual perception
