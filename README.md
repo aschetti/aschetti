@@ -29,6 +29,8 @@ I am founder and coordinator of the [**Open Science Community Rotterdam**](https
 
 I am an independent researcher affiliated with the [**Institute for Globally Distributed Open Research and Education**](https://igdore.org) (IGDORE). I use non-invasive electrical brain activity to study emotion, attention, and visual perception. I analyze these complex datasets using a variety of approaches, for example mass univariate analysis of event-related brain potentials and Bayesian multilevel modeling.
 
+***
+
 # Here are my two cats, Matilda (left) and Borre (right)
 
 <img src="./media/Matilda-Borre.jpg" width="700" />
