@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 
 
 <!--
 **aschetti/aschetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://img.shields.io/badge/OS-Linux-002A7F) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/language-R-002A7F)
+
+Say hi to my two cats, Matilda (left) and Borre (right).
+<!--![Matilda-Borre](https://user-images.githubusercontent.com/23508967/140092046-b42120cd-2d37-4bb9-944c-42c1c58c94aa.jpeg) -->
+
+<img src="https://user-images.githubusercontent.com/23508967/140092046-b42120cd-2d37-4bb9-944c-42c1c58c94aa.jpeg" width="700" />
