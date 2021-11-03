@@ -1,4 +1,3 @@
-
 # Hi, I'm Antonio
 
 <img src="./media/Montoya.gif" width="300" />
@@ -35,5 +34,4 @@ I am an independent researcher affiliated with the [**Institute for Globally Dis
 
 <img src="./media/Matilda-Borre.jpg" width="700" />
 
-***
 ***
