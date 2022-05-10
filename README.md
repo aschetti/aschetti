@@ -32,6 +32,6 @@ I am an independent researcher affiliated with the [**Institute for Globally Dis
 
 # Here is my cat, Borremans de Struise
 
-<img src="./media/Borre.jpg" width="700" />
+<img src="./media/Borre.jpg" width="400" />
 
 ***
