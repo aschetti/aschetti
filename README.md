@@ -30,8 +30,8 @@ I am an independent researcher affiliated with the [**Institute for Globally Dis
 
 ***
 
-# Here are my two cats, Matilda (left) and Borre (right)
+# Here is my cat, Borremans de Struise
 
-<img src="./media/Matilda-Borre.jpg" width="700" />
+<img src="./media/Borre.jpg" width="700" />
 
 ***
