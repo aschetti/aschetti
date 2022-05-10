@@ -11,7 +11,7 @@
 
 ## My job &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./media/ERS.jpg" width="50" />
 
-I am Coordinator Open Science at [**Erasmus Research Services**](https://www.eur.nl/en/research/research-services), a department within Professional Services at [*Erasmus University Rotterdam*](https://www.eur.nl/en). Among the things I do:
+I am Senior Advisor Open Science at [**Erasmus Research Services**](https://www.eur.nl/en/research/research-services), a department within Professional Services at [*Erasmus University Rotterdam*](https://www.eur.nl/en). Among the things I do:
 
 - I develop educational and training materials on Open Science for students, researchers, and support staff
 - I support researchers in opening up various stages of their workflow 
