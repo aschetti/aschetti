@@ -3,7 +3,7 @@
 # Hi, I'm Antonio
 
 - 💬 Happy to chat about open research
-- 👯 Ready to collaborate on projects related to open science, emotion, attention, and visual perception
+- 👯 Keen to collaborate on projects related to open science, emotion, attention, and visual perception
 - 🔗 Visit my [website](https://antonio-schettino.com)
 - 🐦 Find me on [Twitter](https://twitter.com/asch3tti)
 
@@ -11,12 +11,10 @@
 
 ## My job &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./media/ERS.jpg" width="50" />
 
-I am Senior Advisor Open Science at [**Erasmus Research Services**](https://www.eur.nl/en/research/research-services), a department within Professional Services at [*Erasmus University Rotterdam*](https://www.eur.nl/en). Among the things I do:
-
-- I develop educational and training materials on Open Science for students, researchers, and support staff
-- I support researchers in opening up various stages of their workflow 
-- I advise researchers, research teams, and grant officers on how to best highlight commitment to open science in grant applications
-- I advise management and policy makers on current and future (inter)national trends related to evaluation procedures at the individual and institutional level
+I am _ad interim_ Head of Open and Responsible Science (ORS) at [**Erasmus Research Services**](https://www.eur.nl/en/research/research-services), a department within Professional Services at [*Erasmus University Rotterdam*](https://www.eur.nl/en). My responsibilities include:
+- leading the development of vision, strategy, and mid-term goals of the ORS team;
+- ensuring connection and collaboration with other departments, within Erasmus Research Services and the university at large;
+- organizing, directing, and conducting everyday and existing activities of the department and managing its human and material resources.
 
 ## OSCR &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./media/OSCR.jpg" width="50" />
 
