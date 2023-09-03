@@ -3,9 +3,9 @@
 # Hi, I'm Antonio
 
 - 💬 Happy to chat about open research
-- 👯 Keen to collaborate on projects related to open science, emotion, attention, and visual perception
+- 👯 Open to collaborate on projects related to open science, emotion, attention, and visual perception
 - 🔗 Visit my [website](https://antonio-schettino.com)
-- 🐦 Find me on [Twitter](https://twitter.com/asch3tti)
+- 🐘 Find me on [Mastodon](https://fediscience.org/@antonioschettino)
 
 ***
 
