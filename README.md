@@ -11,14 +11,14 @@
 
 ## My job &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./media/ERS.jpg" width="50" />
 
-I am _ad interim_ Head of Open and Responsible Science (ORS) at [**Erasmus Research Services**](https://www.eur.nl/en/research/research-services), a department within Professional Services at [*Erasmus University Rotterdam*](https://www.eur.nl/en). My responsibilities include:
+I am Head of Open and Responsible Science (ORS) at [**Erasmus Research Services**](https://www.eur.nl/en/research/research-services), a department within Professional Services at [*Erasmus University Rotterdam*](https://www.eur.nl/en). My responsibilities include:
 - leading the development of vision, strategy, and mid-term goals of the ORS team;
 - ensuring connection and collaboration with other departments, within Erasmus Research Services and the university at large;
 - organizing, directing, and conducting everyday and existing activities of the department and managing its human and material resources.
 
 ## OSCR &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./media/OSCR.jpg" width="50" />
 
-I am founder and former coordinator of the [**Open Science Community Rotterdam**](https://www.openscience-rotterdam.com/home/) (OSCR), a bottom-up community where researchers and support staff discuss and learn about open research practices.​ OSCR is part of the [**International Network of Open Science & Scholarship Communities**](https://doi.org/10.1093/scipol/scab039) (INOSC), which embraces many communities in the Netherlands and other regions in the world... and we are expanding! 
+I am founder and former coordinator of the [**Open Science Community Rotterdam**](https://www.openscience-rotterdam.com/home/) (OSCR), a bottom-up community where researchers and support staff discuss and learn about open research practices. OSCR is part of the [**International Network of Open Science & Scholarship Communities**](https://doi.org/10.1093/scipol/scab039) (INOSC), which embraces many communities in the Netherlands and other regions in the world... and we are expanding! 
 
 ***
 
