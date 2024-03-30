@@ -27,3 +27,9 @@ I am founder and former coordinator of the [**Open Science Community Rotterdam**
 I am an independent researcher affiliated with the [**Institute for Globally Distributed Open Research and Education**](https://igdore.org) (IGDORE). I use behavioral tasks and non-invasive electrical brain activity to study emotion, attention, and visual perception. I analyze these complex datasets using a variety of approaches, for example mass univariate analysis of event-related brain potentials and Bayesian multilevel modeling.
 
 ***
+
+# Here is my cat, Elfi Jones
+
+<img src="./media/Elfi.jpg" width="400" />
+
+***
