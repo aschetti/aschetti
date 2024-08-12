@@ -11,7 +11,7 @@
 
 ## My job &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./media/ERS.jpg" width="50" />
 
-I am Head of Open and Responsible Science (ORS) at [**Erasmus Research Services**](https://www.eur.nl/en/research/research-services), a department within Professional Services at [*Erasmus University Rotterdam*](https://www.eur.nl/en). My responsibilities include:
+I am Head of Open and Responsible Science (ORS) at [**Engagement & Research Services**](https://www.eur.nl/en/research/research-services), a department within Professional Services at [*Erasmus University Rotterdam*](https://www.eur.nl/en). My responsibilities include:
 - leading the development of vision, strategy, and mid-term goals of the ORS team;
 - ensuring connection and collaboration with other departments, within Erasmus Research Services and the university at large;
 - organizing, directing, and conducting everyday and existing activities of the department and managing its human and material resources.
