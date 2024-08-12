@@ -28,7 +28,7 @@ I am an independent researcher affiliated with the [**Institute for Globally Dis
 
 ***
 
-# Here is my cat, Elfi Jones
+# Here is my cat, Elfi Angharad Jones
 
 <img src="./media/Elfi.jpg" width="400" />
 
